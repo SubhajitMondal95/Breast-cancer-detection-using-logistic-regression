@@ -27,7 +27,7 @@ The project uses the Wisconsin Breast Cancer dataset, which is assumed to be in 
 
 ## How to Run
 
-1.  Clone the repository: `git clone https://github.com/YOUR_USERNAME/Breast-Cancer-Prediction.git` (Replace with your repository URL)
+1.  Clone the repository: `git clone https://github.com/SubhajitMondal95/Breast-Cancer-Prediction.git` 
 2.  Install the required libraries: `pip install pandas numpy scikit-learn matplotlib seaborn`
 3.  Place the `breast_cancer.csv` file in the same directory as the Python script.
 4.  Run the script: `python your_script_name.py` (Replace `your_script_name.py` with the name of your Python file).
